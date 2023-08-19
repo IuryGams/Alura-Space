@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "title": "Facebook",
+        "link": "https://www.facebook.com/AluraCursosOnline/",
+        "src": "/assets/imagens/socialMedia/facebook.svg",
+        "alt": "Icone do Facebook"
+    },
+    {
+        "id": "2",
+        "title": "Twitter",
+        "link": "https://twitter.com/aluraonline?lang=pt-BR",
+        "src": "/assets/imagens/socialMedia/twitter.svg",
+        "alt": "Icone do Twitter"
+    },
+    {
+        "id": "3",
+        "title": "Instagram",
+        "link": "https://www.instagram.com/aluraonline/?hl=pt-BR",
+        "src": "/assets/imagens/socialMedia/instagram.svg",
+        "alt": "Icone do Instagram"
+    }
+]
