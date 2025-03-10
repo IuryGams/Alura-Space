@@ -14,7 +14,7 @@ const Rodape = () => {
                     )
                 })}
             </div>
-            <p>Desensolvido por Iury Menezes</p>
+            <p>Desenvolvido por Iury Menezes</p>
         </footer>
     )
 }
